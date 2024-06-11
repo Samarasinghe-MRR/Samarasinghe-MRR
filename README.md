@@ -157,10 +157,10 @@ Description of project 2.
 
 </td></tr></table>
 
-[![Samarasinghe-MRR's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarasinghe-MRR&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/Samarasinghe-MRR)
+<!--[![Samarasinghe-MRR's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarasinghe-MRR&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/Samarasinghe-MRR)-->
+</br>
 
-
-
+</br>
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
@@ -181,9 +181,9 @@ Description of project 2.
 </p>
 
 
-<p>Total visitors till now 👇❤️</p>
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Samarasinghe-MRR.Samarasinghe-MRR)
+[![GitHub followers](https://img.shields.io/github/followers/Samarasinghe-MRR?label=Follow&style=social)](https://github.com/Samarasinghe-MRR)
 
 -------
-Credits: [nitindahiya199](https://github.com/nitindahiya199)
 Last Edited on: 01-05-2024
