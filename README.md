@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 # Hi there, I'm Rajinie Samarasinghe 👋
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Samarasinghe-MRR.Samarasinghe-MRR)
@@ -21,8 +23,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🔭 I’m currently working on [Project Name](project link)
-- 🌱 I’m currently learning [Learning Topic]
+- 🔭 I’m currently working on Welfare module for an University Management System.
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on [Project Type]
 - 🤔 I’m looking for help with [Project or Skill]
 - 💬 Ask me about [Your Expertise]
@@ -69,14 +71,103 @@ Description of project 2.
 
 ## Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](post1 link)
-- [Post 2](post2 link)
-- [Post 3](post3 link)
-<!-- BLOG-POST-LIST:END -->
 
-## Support Me
 
-If you like my work, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Rajinie</h1></summary>
+  </ul>
+</div>
+
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
+
+- 🌱 I’m currently exploring data structures and algotithms for improve my knowledge.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
+- 💬 Ask me about anything, I love to answer!
+- :thinking: I’m currently open for a new `job opportunity`.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+<br>
+
+
+
+
+  ## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C Programming](https://img.shields.io/badge/-C-000?logo=C)
+![Python](https://img.shields.io/badge/-Python-000?logo=Python)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)
+
+
+### Frontend Development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?logo=React)
+![Material-UI](https://img.shields.io/badge/Material--UI-000?logo=material-ui&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
+
+### Backend Development:
+&emsp;
+![Express](https://img.shields.io/badge/-Express-000?logo=Express)
+![Node Js](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=white)
+
+### Misc Tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
+![Jira](https://img.shields.io/badge/Jira-000?logo=Jira&logoColor=white)
+
+
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=white))
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=white)
+
+
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+<h3 align="center" >Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/nitin-dahiya/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nitindahiya199">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="mailto:nitindahiya00000@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+      </div>
+
+</p>
+
+
+<p>Total visitors till now 👇❤️</p>
+<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+
+-------
+Credits: [nitindahiya199](https://github.com/nitindahiya199)
+Last Edited on: 01-05-2024
