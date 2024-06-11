@@ -143,6 +143,22 @@ Description of project 2.
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=white))
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=white)
 
+<br/>
+
+ ## 🛠️ GitHub Stats
+ &emsp;
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samarasinghe-MRR&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://streak-stats.demolab.com/?user=Samarasinghe-MRR&theme=radical&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+[![Samarasinghe-MRR's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samarasinghe-MRR&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/Samarasinghe-MRR)
+
 
 
 <p align = "center">
