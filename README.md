@@ -93,10 +93,9 @@ Description of project 2.
 
 
 - 🌱 I’m currently exploring data structures and algotithms for improve my knowledge.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-- 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new `job opportunity`.
+- :technologist: I love to grow myself through learning new things.
+- :nerd_face: Always `trying to identify the pattern of how something happens/works`.
+- :thinking: I’m currently open for a new `Software Engineering Internship opportunities`.
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
 <br>
 
