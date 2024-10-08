@@ -96,7 +96,7 @@ Description of project 2.
 - :technologist: I love to grow myself through learning new things.
 - :nerd_face: Always `trying to identify the pattern of how something happens/works`.
 - :thinking: I’m currently open for a new `Software Engineering Internship opportunities`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+- Feel free to contact me on [LinkedIn](www.linkedin.com/in/rajinie-samarasinghe) 🏆.
 <br>
 
 
